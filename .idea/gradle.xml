@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/out" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/An incorrect statement" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Features of an abstract method" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Incorrect declaration" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/IntBinaryOperation" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Overriding when extending" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Shape hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Users and WebSites" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Employee and Programmer" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Publications" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Rules for overriding" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Saying animals" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Shapes area" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Which methods will be overridden" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Class instantiation" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Employee" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Entanglement" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Movie" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Phone" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Suppose, you have a class" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Time" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/A pair of not overloaded methods" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Overloading methods" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Print" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Unsuccessful overloading" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Find mistake" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Notification" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Publication and its subclasses" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Runtime method resolution" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Superclass method call" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/The time of overloading" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/About recursion" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/Alternating Fibonacci numbers" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/Find a substring" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/Fix the method to print strings in the reverse order" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/K-combination" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/N-th power" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/Obscure method" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/Operations with number n" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/Select statement" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Bank account" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Employees" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Fix the non-compiled hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/When the keyword cannot be used" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

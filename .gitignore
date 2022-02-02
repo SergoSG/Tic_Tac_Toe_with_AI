@@ -1,0 +1,105 @@
+# Project exclude paths
+/.gradle/
+/Tic-Tac-Toe with AI/task/build/
+/Tic-Tac-Toe with AI/task/out/production/classes/
+/Topics/Abstract class/An incorrect statement/out/
+/Topics/Abstract class/An incorrect statement/out/production/classes/
+/Topics/Abstract class/Features of an abstract method/out/
+/Topics/Abstract class/Features of an abstract method/out/production/classes/
+/Topics/Abstract class/Incorrect declaration/out/
+/Topics/Abstract class/Incorrect declaration/out/production/classes/
+/Topics/Abstract class/IntBinaryOperation/out/
+/Topics/Abstract class/IntBinaryOperation/out/production/classes/
+/Topics/Abstract class/Overriding when extending/out/
+/Topics/Abstract class/Overriding when extending/out/production/classes/
+/Topics/Abstract class/Shape hierarchy/out/
+/Topics/Abstract class/Shape hierarchy/out/production/classes/
+/Topics/Abstract class/Theory/out/
+/Topics/Abstract class/Theory/out/production/classes/
+/Topics/Abstract class/Users and WebSites/out/
+/Topics/Abstract class/Users and WebSites/out/production/classes/
+/Topics/Hiding and overriding/Employee and Programmer/out/
+/Topics/Hiding and overriding/Employee and Programmer/out/production/classes/
+/Topics/Hiding and overriding/Publications/out/
+/Topics/Hiding and overriding/Publications/out/production/classes/
+/Topics/Hiding and overriding/Rules for overriding/out/
+/Topics/Hiding and overriding/Rules for overriding/out/production/classes/
+/Topics/Hiding and overriding/Saying animals/out/
+/Topics/Hiding and overriding/Saying animals/out/production/classes/
+/Topics/Hiding and overriding/Statements/out/
+/Topics/Hiding and overriding/Statements/out/production/classes/
+/Topics/Hiding and overriding/Theory/out/
+/Topics/Hiding and overriding/Theory/out/production/classes/
+/Topics/Hiding and overriding/Which methods will be overridden/out/
+/Topics/Hiding and overriding/Which methods will be overridden/out/production/classes/
+/Topics/Multiple constructors/Class instantiation/out/
+/Topics/Multiple constructors/Class instantiation/out/production/classes/
+/Topics/Multiple constructors/Employee/out/
+/Topics/Multiple constructors/Employee/out/production/classes/
+/Topics/Multiple constructors/Entanglement/out/
+/Topics/Multiple constructors/Entanglement/out/production/classes/
+/Topics/Multiple constructors/Movie/out/
+/Topics/Multiple constructors/Movie/out/production/classes/
+/Topics/Multiple constructors/Phone/out/
+/Topics/Multiple constructors/Phone/out/production/classes/
+/Topics/Multiple constructors/Suppose, you have a class/out/
+/Topics/Multiple constructors/Suppose, you have a class/out/production/classes/
+/Topics/Multiple constructors/Theory/out/
+/Topics/Multiple constructors/Theory/out/production/classes/
+/Topics/Multiple constructors/Time/out/
+/Topics/Multiple constructors/Time/out/production/classes/
+/Topics/Overloading/A pair of not overloaded methods/out/
+/Topics/Overloading/A pair of not overloaded methods/out/production/classes/
+/Topics/Overloading/Overloading methods/out/
+/Topics/Overloading/Overloading methods/out/production/classes/
+/Topics/Overloading/Print/out/
+/Topics/Overloading/Print/out/production/classes/
+/Topics/Overloading/Theory/out/
+/Topics/Overloading/Theory/out/production/classes/
+/Topics/Overloading/Unsuccessful overloading/out/
+/Topics/Overloading/Unsuccessful overloading/out/production/classes/
+/Topics/Polymorphism/Find mistake/out/
+/Topics/Polymorphism/Find mistake/out/production/classes/
+/Topics/Polymorphism/Notification/out/
+/Topics/Polymorphism/Notification/out/production/classes/
+/Topics/Polymorphism/Publication and its subclasses/out/
+/Topics/Polymorphism/Publication and its subclasses/out/production/classes/
+/Topics/Polymorphism/Runtime method resolution/out/
+/Topics/Polymorphism/Runtime method resolution/out/production/classes/
+/Topics/Polymorphism/Statements/out/
+/Topics/Polymorphism/Statements/out/production/classes/
+/Topics/Polymorphism/Superclass method call/out/
+/Topics/Polymorphism/Superclass method call/out/production/classes/
+/Topics/Polymorphism/The time of overloading/out/
+/Topics/Polymorphism/The time of overloading/out/production/classes/
+/Topics/Polymorphism/Theory/out/
+/Topics/Polymorphism/Theory/out/production/classes/
+/Topics/Recursion/About recursion/out/
+/Topics/Recursion/About recursion/out/production/classes/
+/Topics/Recursion/Alternating Fibonacci numbers/out/
+/Topics/Recursion/Alternating Fibonacci numbers/out/production/classes/
+/Topics/Recursion/Fix the method to print strings in the reverse order/out/
+/Topics/Recursion/Fix the method to print strings in the reverse order/out/production/classes/
+/Topics/Recursion/K-combination/out/
+/Topics/Recursion/K-combination/out/production/classes/
+/Topics/Recursion/N-th power/out/
+/Topics/Recursion/N-th power/out/production/classes/
+/Topics/Recursion/Obscure method/out/
+/Topics/Recursion/Obscure method/out/production/classes/
+/Topics/Recursion/Operations with number n/out/
+/Topics/Recursion/Operations with number n/out/production/classes/
+/Topics/Recursion/Select statement/out/
+/Topics/Recursion/Select statement/out/production/classes/
+/Topics/Recursion/Theory/out/
+/Topics/Recursion/Theory/out/production/classes/
+/Topics/The keyword super/Bank account/out/
+/Topics/The keyword super/Bank account/out/production/classes/
+/Topics/The keyword super/Fix the non-compiled hierarchy/out/
+/Topics/The keyword super/Fix the non-compiled hierarchy/out/production/classes/
+/Topics/The keyword super/Theory/out/
+/Topics/The keyword super/Theory/out/production/classes/
+/Topics/The keyword super/When the keyword cannot be used/out/
+/Topics/The keyword super/When the keyword cannot be used/out/production/classes/
+/util/build/
+/util/out/
+/util/out/production/classes/

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-build-classes-java.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-build-reports-tests.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-build-test-results.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-build-tmp.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-out.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Abstract_class-An_incorrect_statement.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Abstract_class-Features_of_an_abstract_method.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Abstract_class-Incorrect_declaration.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Abstract_class-IntBinaryOperation.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Abstract_class-Overriding_when_extending.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Abstract_class-Shape_hierarchy.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Abstract_class-Theory.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Abstract_class-Users_and_WebSites.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Hiding_and_overriding-Employee_and_Programmer.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Hiding_and_overriding-Publications.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Hiding_and_overriding-Rules_for_overriding.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Hiding_and_overriding-Saying_animals.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Hiding_and_overriding-Shapes_area.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Hiding_and_overriding-Statements.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Hiding_and_overriding-Theory.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Hiding_and_overriding-Which_methods_will_be_overridden.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Class_instantiation.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Employee.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Entanglement.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Movie.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Phone.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Suppose,_you_have_a_class.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Theory.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Time.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Overloading-A_pair_of_not_overloaded_methods.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Overloading-Overloading_methods.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Overloading-Print.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Overloading-Theory.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Overloading-Unsuccessful_overloading.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Polymorphism-Find_mistake.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Polymorphism-Notification.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Polymorphism-Publication_and_its_subclasses.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Polymorphism-Runtime_method_resolution.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Polymorphism-Statements.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Polymorphism-Superclass_method_call.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Polymorphism-The_time_of_overloading.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Polymorphism-Theory.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Recursion-About_recursion.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Recursion-Alternating_Fibonacci_numbers.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Recursion-Find_a_substring.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Recursion-Fix_the_method_to_print_strings_in_the_reverse_order.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Recursion-K-combination.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Recursion-N-th_power.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Recursion-Obscure_method.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Recursion-Operations_with_number_n.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Recursion-Select_statement.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Recursion-Theory.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-The_keyword_super-Bank_account.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-The_keyword_super-Employees.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-The_keyword_super-Fix_the_non-compiled_hierarchy.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-The_keyword_super-Theory.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-The_keyword_super-When_the_keyword_cannot_be_used.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
